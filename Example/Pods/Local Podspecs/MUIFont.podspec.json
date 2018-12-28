@@ -1,0 +1,22 @@
+{
+  "name": "MUIFont",
+  "version": "1.0.0",
+  "summary": "A short description of MUIFont.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mafeng-Bryant/MUIFont",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1499603656@qq.com": "feng.ma@patpat.com"
+  },
+  "source": {
+    "git": "https://github.com/mafeng-Bryant/MUIFont.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MUIFont/Classes/**/*"
+}

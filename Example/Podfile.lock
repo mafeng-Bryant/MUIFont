@@ -1,0 +1,16 @@
+PODS:
+  - MUIFont (1.0.0)
+
+DEPENDENCIES:
+  - MUIFont (from `../`)
+
+EXTERNAL SOURCES:
+  MUIFont:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MUIFont: 52cc9d5e4e147dfb10adcb4421363a2b17454fd4
+
+PODFILE CHECKSUM: d40db40a9211ca450848b9becce1fe05e5feceea
+
+COCOAPODS: 1.5.3

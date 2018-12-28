@@ -1,0 +1,6 @@
+framework module Pods_MUIFont_Example {
+  umbrella header "Pods-MUIFont_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
