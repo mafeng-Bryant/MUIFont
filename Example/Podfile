@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MUIFont_Example' do
+  pod 'MUIFont', :path => '../'
+
+  target 'MUIFont_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
